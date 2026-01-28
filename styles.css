@@ -1,3 +1,10 @@
 body{
     background-color: aliceblue;
 }
+
+nav{
+    color:rgb(159, 171, 182);
+    opacity: 20%;
+    height: 50px;
+    width: 500px;
+}
