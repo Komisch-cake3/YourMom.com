@@ -2,6 +2,11 @@ body{
     background-color: rgb(217, 237, 255);
 }
 
+@font-face {
+    font-family: "Logo";
+    src: url(fonts/chor.regular.otf);
+}
+
 nav{
     background-color:rgba(179, 217, 255, 0.57);
     height: 20px;
@@ -29,4 +34,10 @@ button a{
 button{
     background: transparent;
     border: transparent;
+}
+
+header{
+    font-family: "logo";
+    font-size:50px;
+    color:rgb(234, 197, 51);
 }
