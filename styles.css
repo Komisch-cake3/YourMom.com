@@ -1,10 +1,32 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(217, 237, 255);
 }
 
 nav{
-    color:rgb(159, 171, 182);
-    opacity: 20%;
-    height: 50px;
-    width: 500px;
+    background-color:rgba(179, 217, 255, 0.57);
+    height: 20px;
+    width: 300px;
+    border-radius:25px;
+   position:relative;
+   left: 600px;
+   padding-left:5%;
+   padding-right:5%;
+   padding-top:1%;
+}
+
+button a{
+    opacity: 100%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-shadow: 20px rgb(0,0,0);
+    text-align: center;
+    position:relative;
+    left: 20px;
+    font-size: 20px;
+    
+
+}
+button{
+    background: transparent;
+    border: transparent;
 }
