@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(217, 237, 255);
+    background-color: rgb(253, 254, 255);
 }
 
 @font-face {
@@ -8,7 +8,7 @@ body{
 }
 
 nav{
-    background-color:rgba(179, 217, 255, 0.57);
+    background-color:rgba(207, 207, 207, 0.57);
     height: 20px;
     width: 300px;
     border-radius:25px;
@@ -43,5 +43,6 @@ header{
 }
 
 .logo{
-    
+    width: 350px;
+    height: 250px;
 }
